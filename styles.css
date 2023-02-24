@@ -89,8 +89,8 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-mb4 img {
-  border-radius: 50%;
+#portfolio img:hover {
+  background: url("images/WhatsApp\ Image\ 2023-02-23\ at\ 9.38.55\ PM.jpeg") no-repeat;
 }
 
 hr {
