@@ -11245,7 +11245,7 @@ header.masthead .site-heading .h1 {
 .post-preview > .post-meta > a {
   text-decoration: none;
 }
-@media (min-width: 992px) {
+@media (min-width: 576px) {
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
