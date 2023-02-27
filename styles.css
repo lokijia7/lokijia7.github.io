@@ -5342,6 +5342,9 @@ textarea.form-control-lg {
   padding: 1rem;
 }
 
+.footer.border-top{
+  padding-top: 20%;
+}
 .modal-footer {
   display: flex;
   flex-wrap: wrap;
