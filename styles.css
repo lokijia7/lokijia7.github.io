@@ -11261,4 +11261,10 @@ padding-bottom: 70px;
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
+
+  .post-preview-img{
+    max-width: 100%;
+    height: auto
+
+  }
 }
