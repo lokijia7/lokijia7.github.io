@@ -11263,9 +11263,3 @@ padding-bottom: 70px;
   }
 }
 
-@media (min-width:500px) {
-  .post-preview-img{
-    width: 60%;
-    height: 60%;
-  }
-}
