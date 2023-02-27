@@ -11261,5 +11261,11 @@ padding-bottom: 70px;
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
+}
 
+@media (min-width:500px) {
+  .post-preview-img{
+    width: 60%;
+    height: 60%;
+  }
 }
