@@ -600,13 +600,6 @@ progress {
   content: "— ";
 }
 
-.footer {
-  border: 1px solid;
-  position: relative;
-  padding: 5px;
-  margin-top: -5px;
-  
-}
 
 .img-fluid {
   max-width: 100%;
@@ -6577,6 +6570,7 @@ textarea.form-control-lg {
 }
 
 .border-top {
+  padding: 5px;
   border-top: 1px solid #dee2e6 !important;
 }
 
