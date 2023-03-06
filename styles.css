@@ -12227,5 +12227,8 @@ header.masthead .post-heading .meta a {
 #workimg img {
   width: 100%;
   height: auto;
+}
+
+#workimg {
   padding-bottom: 20px;
 }
